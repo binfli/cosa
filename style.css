@@ -5,14 +5,18 @@
   font-family: "Poppins", sans-serif;
 }
 
-
 body{
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: gainsboro
+  background-color: rgb(220, 220, 220)
  
+}
+
+.wrap{
+  min-height: 100%;
+  overflow: hidden;
 }
 
 .all{
